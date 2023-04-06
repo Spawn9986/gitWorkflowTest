@@ -5,3 +5,5 @@ function add (x, y) {
 function multiply (x, y) {
     return x * y;
 }
+
+// this pseudo code is from file: Shawn
